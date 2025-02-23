@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\ivank\\source\\repos\\WpfApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{833F7657-4ACE-4FB3-BB22-3FEC33832ECD}|WpfApp2\\WpfApp2.csproj|C:\\Users\\ivank\\source\\repos\\WpfApp2\\wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{833F7657-4ACE-4FB3-BB22-3FEC33832ECD}|WpfApp2\\WpfApp2.csproj|c:\\users\\ivank\\source\\repos\\wpfapp2\\wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{833F7657-4ACE-4FB3-BB22-3FEC33832ECD}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{833F7657-4ACE-4FB3-BB22-3FEC33832ECD}|WpfApp2\\WpfApp2.csproj|c:\\users\\ivank\\source\\repos\\wpfapp2\\wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{833F7657-4ACE-4FB3-BB22-3FEC33832ECD}|WpfApp2\\WpfApp2.csproj|C:\\Users\\ivank\\source\\repos\\WpfApp2\\wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{833F7657-4ACE-4FB3-BB22-3FEC33832ECD}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -60,10 +60,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
@@ -75,8 +71,7 @@
               "ToolTip": "C:\\Users\\ivank\\source\\repos\\WpfApp2\\WpfApp2\\MainWindow.xaml",
               "RelativeToolTip": "WpfApp2\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-15T18:31:55.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T18:31:55.75Z"
             },
             {
               "$type": "Document",
